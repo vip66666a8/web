@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* main-content */
+.content1:hover{
+	transform:translateY(-20px);
+	-moz-transform:translateY(-20px);
+	-ms-transform:translateY(-20px);
+	-o-transform:translateY(-20px);
+	-webkit-transform:translateY(-20px);
+	}
+	
+/* #content6-ul-li */
+
+#content6 ul li:hover a{
+	background:#fff;
+	color:#000;
+	z-index:99;
+	}
+#content6 ul li:hover .border{
+	opacity:0;
+	filter:alpha(opacity=0);
+	}
+
+
+
+

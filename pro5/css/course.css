@@ -1,0 +1,67 @@
+@charset "utf-8";
+/*特色课程样式表*/
+.course_bj{width:100%; height:549px; background:url(../img/img-36.jpg) no-repeat center top;}
+.course{width:1000px; height:549px; background:url(../img/img-37.jpg) no-repeat center top; position:relative;}
+.course h2{font-size:25px; color:#3f7dac; position:absolute; left:0px; top:147px; font-weight:normal; text-align:center;}
+.course p{line-height:28px; position:absolute; left:0; top:213px;}
+.parent_hood_bj{width:100%; height:490px; background:#005dab;}
+.parent_hood{width:1000px; height:384px; padding-top:106px;}
+.parent_hood_left{width:520px; height:384px; background:url(../img/img-52.jpg) no-repeat center;position:relative; float:left;}
+.parent_hood_left img{position:absolute; left:7px; top:8px;}
+.parent_hood_right{width:440px; height:267px; background:url(../img/img-39.jpg) no-repeat 170px 40px; float:right; padding-top:117px;}
+.parent_hood_right p{font-size:18px; color:#FFF; line-height:36px; text-indent:2em;}
+.interest_bj{width:100%; height:490px; background:#fff;}
+.interest{width:1000px; height:490px; position:relative;}
+.interest_left{width:437px; height:135px; background:url(../img/img-42.jpg) no-repeat center top; position:absolute; left:0; top:145px; padding-top:65px; z-index:2;}
+.interest_left p{font-size:17px; color:#333; line-height:36px; text-indent:2em;}
+.interest_right{width:644px; height:490px; background:url(../img/img-40.jpg) no-repeat center top; position:absolute; right:0; z-index:1;}
+.interest_right img{position:absolute; left:238px; top:116px;}
+.music_bj{width:100%; height:490px; background:#ffaf42;}
+.music{width:1000px; height:490px; position:relative;}
+.music_left{width:723px; height:490px; background:url(../img/img-43.jpg) no-repeat center top;  position:relative;}
+.music_left img{position:absolute; left:8px; top:117px;}
+.music_right{width:440px; height:207px; background:url(../img/img-45.jpg) no-repeat center top; padding-top:69px; position:absolute; left:562px; top:142px;}
+.music_right p{font-size:18px; color:#fff; line-height:36px; text-indent:2em;}
+.art_bj{width:100%; height:490px; background:#fff; clear:both;}
+.art{width:1000px; height:490px; position:relative;}
+.art_left{width:432px; height:136px; background:url(../img/img-48.jpg) no-repeat center top;position:absolute; top:145px; padding-top:64px;}
+.art_left p{font-size:18px; color:#333; line-height:36px; text-indent:2em;}
+.art_right{width:638px; height:490px; background:url(../img/img-46.jpg) no-repeat center top; float:right; position:relative;}
+.art_right img{position:absolute; top:113px; left:231px;}
+.language_bj{width:100%; height:490px; background:#005dab;}
+.language{width:1000px; height:490px; position:relative;}
+.language_left{width:645px; height:490px; background:url(../img/img-49.jpg) no-repeat center top; position:relative;}
+.language_left img{position:absolute; top:115px; left:6px;}
+.language_right{width:433px; height:136px; background:url(../img/img-51.jpg) no-repeat center top; position:absolute; top:144px; right:0; padding-top:69px;}
+.language_right p{font-size:18px; color:#fff; line-height:36px; text-indent:2em;}
+
+
+/*招生简章样式表*/
+.container_bj{width:100%; height:1702px; background:url(../img/img-53.jpg) no-repeat center top;}
+.container{width:1000px; height:1702px; background:url(../img/img-54.jpg) no-repeat center top;}
+.text_01{width:944px; height:307px; background:url(../img/img-55.jpg) no-repeat 0 69px; padding-top:190px; border-bottom:1px dashed #ddd; position:relative;}
+.text_01 p{font-size:14px; line-height:30px; color:#666;}
+.text_02{width:944px; height:391px; background:url(../img/img-56.jpg) no-repeat 0 40px; padding-top:109px; border-bottom:1px dashed #ddd;}
+.ul1 li{width:266px; height:155px; background:#ffedd4; margin:0 34px 30px 0; float:left; padding-left:26px;}
+.ul1 li img{display:block; float:right;}
+.pic{width:66px; height:60px; float:right; background:url(../img/img-57.jpg) no-repeat; position:relative;}
+.pic strong{color:#fff; text-align:center; font-size:27px; position:absolute; left:14px; top:10px; font-weight:bold;}
+.ul1 li h3{font:23px/88px 'Microsoft Yahei'; color:#666; font-weight:bold;}
+.ul1 li p{font-size:15px; color:#666;}
+.text_03{width:944px; background:url(../img/img-58.jpg) no-repeat 0 40px; padding-top:95px;}
+.ul2 li{border-bottom:1px dashed #ddd; background:url(../img/img-59.png) no-repeat 14px 16px; padding-left:40px;  position:relative;}
+.ul2 li a{font-size:15px; color:#333; line-height:49px;}
+.ul2 li a:hover{text-decoration:underline;}
+.ul2 li span{display:block; height:49px; color:#999; float:right; line-height:49px; background:url(../img/img-60.png) no-repeat center right; margin-right:22px; padding-right:26px; font-size:16px; cursor:pointer;}
+.ul2 li .aspan{background:url(../img/img-61.png) no-repeat center right;}
+.ul2 .li_bj{background-color:#fff;}
+.bottom{width:242px; height:33px; margin:23px auto;}
+.bottom a{display:block; height:33px; padding:0 12px; text-align:center; float:left; background-color:#f0f0f0; font:18px/33px 'Microsoft Yahei'; margin-right:10px; border-radius:2px; color:#666;}
+.bottom a:hover{background-color:#ffaf42; color:#fff; text-decoration:none;}
+.ul2 li p{font-size:14px; line-height:29px; color:#999; height:170px; display:none;}
+.ul2 li p.show{display:block;}
+.ul2 .li_click{display:none;}
+.ul2 .li_click span{display:block; background:url(../img/img-61.png) no-repeat center right; position:absolute; bottom:0; right:0;}
+.apply{display:block; width:134px; height:130px; background:url(../img/baoming.png) no-repeat; position:absolute; right:60px; bottom:22px;}
+.text_01 a:hover{display:block; width:147px; height:143px; background:url(../img/baoming_hover.png) no-repeat; position:absolute; right:60px; bottom:22px;}
+
